@@ -1,41 +1,41 @@
-# VR-based-PCIT-for-positive-parenting
- Concept &amp; research project for VR app enhancing Positive Parenting via Parent-Child Interaction Therapy (PCIT).
+# VR-Based Parent-Child Interactive Training Program
 
-# Overview
-This repository serves as a concept and research project for the development of a Virtual Reality (VR) application that aims to enhance Positive Parenting through Parent-Child Interaction Therapy (PCIT). While the project does not currently contain any code or implementation, it represents a forward-thinking research initiative with the potential to positively impact parenting practices and child development.
+## Overview:
 
-# Project Goals
-The primary objective of this research project is to explore the use of VR technology as a tool to improve the effectiveness of PCIT, a well-established and evidence-based intervention for enhancing parent-child relationships. Specifically, the project aims to:
+This repository contains the source code and documentation for a VR-based parent-child interactive training program developed as a senior project in the Computer Science Department at Effat University. The project aims to encourage positive parenting skills and address disruptive behavior disorders in children through immersive virtual reality technology.
 
-<br>Investigate Feasibility: Assess the feasibility of integrating VR technology into PCIT sessions, evaluating its potential benefits and challenges.
+## Table of Contents:
 
-<br>Enhance Engagement: Explore how VR can enhance parent-child engagement and interaction during therapy sessions.
+- [Introduction](#introduction)
+- [Features](#features)
+- [System Requirements](#system-requirements)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-<br>Improve Skill Acquisition: Investigate whether VR-based scenarios can facilitate the acquisition of positive parenting skills, such as communication, discipline, and emotional regulation.
+## Introduction:
 
-<br>Research Publication: Develop a research paper summarizing findings, insights, and recommendations based on the project's outcomes.
+Disruptive behavior disorders (DBD) in children can have long-term negative consequences if left unaddressed. This project explores the potential of virtual reality (VR) technology to provide an effective and accessible intervention for parents and children dealing with DBD.
 
-# Repository Contents
-This repository contains the following components:
+## Features:
 
-<br>Project Proposal: A detailed project proposal outlining the research objectives, methodology, and expected outcomes.
+- **VR Environment:** Immersive virtual reality environment for parent-child interactions.
+- **Interactive Training:** Parents can engage in interactive training sessions with a virtual child-avatar to practice positive parenting skills.
+- **Realistic Scenarios:** Simulated scenarios allow parents to navigate challenging situations commonly encountered in parenting.
+- **Feedback System:** Visual and auditory feedback are provided to reinforce positive behaviors and guide improvement.
+- **Machine Learning Integration:** Natural language processing (NLP) models utilized for dialogue conversation training of the virtual child-avatar.
+- **Progress Tracking:** System tracks user progress and provides performance reports for continuous improvement.
 
-<br>Literature Review: A compilation of relevant research papers, studies, and articles related to VR in parenting interventions and PCIT.
+## System Requirements:
 
-<br>Research Paper (Future): A research paper summarizing the project's findings and insights once the research has been conducted.
+- Virtual Reality (VR) headset compatible with Unity development environment
+- Unity 3D development platform (version X.X.X)
+- Google Cloud Speech-to-Text API for voice recognition (optional)
+- Additional hardware and software requirements as outlined in [System Requirements](#system-requirements) section of the project documentation.
 
-<br>Documentation: Any documentation related to the research methodology, data collection, and analysis.
+## Authors:
 
-# Contribution
-While there is no code or implementation in this repository at the moment, we anticipate adding implementation details as soon as the research progresses. Contributions and collaborations from researchers, experts in child psychology, VR developers, and others interested in the intersection of technology and positive parenting are welcome. Contributions may include insights, suggestions, or collaborations on research activities related to VR-based PCIT.
-# Authors
-Mehreen Junaid<br>
-Hajer Abbas
-# Contact
-For inquiries or collaboration proposals, please feel free to contact me:
-
-<br>Mehreen Junaid
-<br>Email: mehreenjunaid23@gmail.com
-<br>LinkedIn: https://www.linkedin.com/in/mehreen-junaid/
-
-We look forward to exploring the potential of VR technology in improving parent-child relationships and promoting positive parenting practices. Implementation details will be added as the project evolves.
+- [Mehreen Junaid](https://github.com/mehreenjunaid23)
+- Layan Jaman
+- Hajer Abbas
